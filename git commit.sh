@@ -1,3 +1,4 @@
+#!/bin/bash
 git commit
 
 git checkout -b bugFix
